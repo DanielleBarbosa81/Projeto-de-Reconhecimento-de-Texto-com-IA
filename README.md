@@ -1,0 +1,1 @@
+# Projeto-de-Reconhecimento-de-Texto-com-IA
